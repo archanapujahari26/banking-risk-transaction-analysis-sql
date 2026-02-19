@@ -48,3 +48,10 @@ This analysis helps banks:
 - database_schema.sql → Table creation
 - sample_data.sql → Sample data insertion
 - analysis_queries.sql → Analytical SQL queries
+
+
+## 📊 Sample Query Results
+
+The detailed output of SQL queries can be found in:
+
+👉 `query_results.md`
